@@ -25,9 +25,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Cyrian's Top Languages">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Niveau%20Dev-B%2B-blue" alt="Niveau Dev B+">
-</p>
 
 
 ## 🚀 Projets et réalisations
