@@ -31,3 +31,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact" alt="Cyrian's Top Languages">
+</p>
+
