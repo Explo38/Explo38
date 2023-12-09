@@ -1,39 +1,33 @@
 <div align="center">
 
-<h1 style="font-size: 30px; font-weight: bold; color: #333;">👋 Bienvenue sur mon profil GitHub !</h1>
+# 👋 Bienvenue sur mon profil GitHub, je suis Cyrian !
 
-<img src="https://i.ibb.co/StCJGc1/github-header-image-3.png" alt="Header"/>
+![Header](https://i.ibb.co/StCJGc1/github-header-image-3.png)
 
-<h2 style="font-size: 26px; font-weight: bold; color: #333;">À propos de moi</h2>
-<ul>
-  <li><p style="font-size: 16px;">👨‍🎓 Je suis un étudiant de 19 ans passionné par le développement. Ma curiosité et mon enthousiasme pour la technologie me poussent toujours à apprendre et à explorer de nouveaux horizons.</p></li>
-</ul>
+Je suis un étudiant de 19 ans passionné par le développement web et l'UI/UX. Toujours en quête de nouvelles technologies et tendances dans le monde du développement.
 
-<h2 style="font-size: 26px; font-weight: bold; color: #333;">Mes intérêts</h2>
-<ul>
-  <li><p style="font-size: 16px;">🌐 Développement Web : J'aime créer des sites web élégants, réactifs et fonctionnels.</p></li>
-  <li><p style="font-size: 16px;">🎨 UI/UX : L'esthétique et l'expérience utilisateur sont au cœur de mes projets. Je m'efforce de créer des interfaces intuitives et attrayantes.</p></li>
-  <li><p style="font-size: 16px;">🚀 Technologies émergentes : Je suis constamment à la recherche de nouvelles technologies et tendances dans le monde du développement.</p></li>
-</ul>
+</div>
 
-<h2 style="font-size: 26px; font-weight: bold; color: #333;">Mes compétences</h2>
-<ul>
-  <li><p style="font-size: 16px;">Langages : HTML, CSS, JavaScript, C#, C++</p></li>
-  <li><p style="font-size: 16px;">Outils et Frameworks : React, Node.js</p></li>
-  <li><p style="font-size: 16px;">Conception : Adobe XD, Figma</p></li>
-</ul>
+## 🎓 À propos de moi
+- **Étudiant en développement** : Je me concentre principalement sur le développement web, tout en explorant d'autres domaines de la technologie.
+- **Curieux et enthousiaste** : Toujours prêt à apprendre et à relever de nouveaux défis.
 
-<h2 style="font-size: 26px; font-weight: bold; color: #333;">Projets et réalisations</h2>
-<ul>
-  <li><p style="font-size: 16px;">SerreConnect ( <a href="https://github.com/Explo38/SerreConnect_V2.git">https://github.com/Explo38/SerreConnect_V2.git</a> ) : une brève description de ce que fait le projet.</p></li>
-</ul>
+## 🌐 Mes intérêts
+- **Développement Web** : Passionné par la création de sites web réactifs et fonctionnels.
+- **UI/UX** : Attiré par la conception d'interfaces intuitives et esthétiques.
+- **Technologies émergentes** : À l'affût des dernières innovations dans le secteur du développement.
 
-<h2 style="font-size: 26px; font-weight: bold; color: #333;">Me contacter</h2>
-<ul>
-  <li><p style="font-size: 16px;">📫 Vous pouvez me joindre à <a href="mailto:cyrian.brocardo@gmail.com">cyrian.brocardo@gmail.com</a></p></li>
-  <li><p style="font-size: 16px;">💼 <a href="VotreLienLinkedIn">LinkedIn</a></p></li>
-</ul>
+## 💼 Mes compétences
+- **Langages** : HTML, CSS, JavaScript, C#, C++
+- **Outils et Frameworks** : React, Node.js
+- **Conception** : Expérience avec Adobe XD, Figma
+
+## 🚀 Projets et réalisations
+- **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : Une brève description de ce que fait le projet.
+
+## 📫 Me contacter
+- **Email** : [cyrian.brocardo@gmail.com](mailto:cyrian.brocardo@gmail.com)
+- **LinkedIn** : [Ajoutez votre lien LinkedIn ici]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
 
-</div>
