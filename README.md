@@ -22,7 +22,7 @@
 - **Outils et Frameworks** : React, Node.js, Gsap
 - **Conception** : Expérience avec Adobe suite, Figma
   
-<p aligne="centre">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Cyrian's Top Languages">
 </p>
 
