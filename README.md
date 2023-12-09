@@ -1,5 +1,7 @@
 <h1 style="font-size: 30px; font-weight: bold; color: #333;">👋 Bienvenue sur mon profil GitHub !</h1>
 
+![Header](./your-header-image-name.png)
+
 <h2 style="font-size: 26px; font-weight: bold; color: #333;">À propos de moi</h2>
 <ul>
   <li><p style="font-size: 16px;">👨‍🎓 Je suis un étudiant de 19 ans passionné par le développement. Ma curiosité et mon enthousiasme pour la technologie me poussent toujours à apprendre et à explorer de nouveaux horizons.</p></li>
