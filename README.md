@@ -21,6 +21,10 @@
 - **Langages** : HTML, CSS, JavaScript, C#, C++
 - **Outils et Frameworks** : React, Node.js, Gsap
 - **Conception** : Expérience avec Adobe suite, Figma
+  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Cyrian's Top Languages">
+</p>
 
 ## 🚀 Projets et réalisations
 - **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : Une brève description de ce que fait le projet.
@@ -31,8 +35,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Cyrian's Top Languages">
-</p>
 
 
