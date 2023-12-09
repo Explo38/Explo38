@@ -4,7 +4,7 @@
 
 ![Header](https://i.ibb.co/StCJGc1/github-header-image-3.png)
 
-Je suis un étudiant de 19 ans passionné par le développement web et l'UI/UX. Toujours en quête de nouvelles technologies et tendances dans le monde du développement.
+👨‍🎓 Je suis un étudiant de 19 ans passionné par le développement web et l'UI/UX. Toujours en quête de nouvelles technologies et tendances dans le monde du développement.
 
 </div>
 
@@ -19,8 +19,8 @@ Je suis un étudiant de 19 ans passionné par le développement web et l'UI/UX. 
 
 ## 💼 Mes compétences
 - **Langages** : HTML, CSS, JavaScript, C#, C++
-- **Outils et Frameworks** : React, Node.js
-- **Conception** : Expérience avec Adobe XD, Figma
+- **Outils et Frameworks** : React, Node.js, Gsap
+- **Conception** : Expérience avec Adobe suite, Figma
 
 ## 🚀 Projets et réalisations
 - **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : Une brève description de ce que fait le projet.
