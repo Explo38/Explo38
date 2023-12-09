@@ -30,3 +30,4 @@
   <li><p style="font-size: 16px;">💼 <a href="VotreLienLinkedIn">LinkedIn</a></p></li>
 </ul>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Bonjour!+Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
