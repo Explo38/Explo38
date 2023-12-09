@@ -29,14 +29,4 @@
   <li><p style="font-size: 16px;">📫 Vous pouvez me joindre à <a href="mailto:cyrian.brocardo@gmail.com">cyrian.brocardo@gmail.com</a></p></li>
   <li><p style="font-size: 16px;">💼 <a href="VotreLienLinkedIn">LinkedIn</a></p></li>
 </ul>
-<style>
-  .my-animation {
-    animation: spin 2s linear infinite;
-  }
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
 
-<img src="votreImage.png" class="my-animation">
