@@ -1,7 +1,8 @@
 <h1 style="font-size: 30px; font-weight: bold; color: #333;">👋 Bienvenue sur mon profil GitHub !</h1>
 
-![Header](https://i.ibb.co/StCJGc1/github-header-image-3.png)
-
+<p align="center">
+  <img src="https://i.ibb.co/StCJGc1/github-header-image-3.png" alt="Header"/>
+</p>
 
 <h2 style="font-size: 26px; font-weight: bold; color: #333;">À propos de moi</h2>
 <ul>
@@ -18,8 +19,8 @@
 <h2 style="font-size: 26px; font-weight: bold; color: #333;">Mes compétences</h2>
 <ul>
   <li><p style="font-size: 16px;">Langages : HTML, CSS, JavaScript, C#, C++</p></li>
-  <li><p style="font-size: 16px;">Outils et Frameworks : React, Node.js, [autres outils/frameworks]</p></li>
-  <li><p style="font-size: 16px;">Conception : Adobe XD, Figma, [autres outils de conception]</p></li>
+  <li><p style="font-size: 16px;">Outils et Frameworks : React, Node.js</p></li>
+  <li><p style="font-size: 16px;">Conception : Adobe XD, Figma</p></li>
 </ul>
 
 <h2 style="font-size: 26px; font-weight: bold; color: #333;">Projets et réalisations</h2>
@@ -33,4 +34,4 @@
   <li><p style="font-size: 16px;">💼 <a href="VotreLienLinkedIn">LinkedIn</a></p></li>
 </ul>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Bonjour!+Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
