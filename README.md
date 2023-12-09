@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Bienvenue sur mon profil GitHub, je suis Cyrian !
+# 👋 Bienvenue sur mon profil GitHub!
 
 ![Header](https://i.ibb.co/StCJGc1/github-header-image-3.png)
 
