@@ -1,8 +1,6 @@
 <h1 style="font-size: 30px; font-weight: bold; color: #333;">👋 Bienvenue sur mon profil GitHub !</h1>
 
-![Header](https://ibb.co/DG2YwMk)
-[url=https://imgbb.com/][img]https://i.ibb.co/n3JBQ1f/github-header-image-1.png[/img][/url]
-
+![Header](//i.ibb.co/n3JBQ1f/github-header-image-1.png)
 
 <h2 style="font-size: 26px; font-weight: bold; color: #333;">À propos de moi</h2>
 <ul>
