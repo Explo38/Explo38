@@ -1,6 +1,8 @@
+<div align="center">
+
 <h1 style="font-size: 30px; font-weight: bold; color: #333;">👋 Bienvenue sur mon profil GitHub !</h1>
 
-![Header](https://i.ibb.co/StCJGc1/github-header-image-3.png)
+<img src="https://i.ibb.co/StCJGc1/github-header-image-3.png" alt="Header"/>
 
 <h2 style="font-size: 26px; font-weight: bold; color: #333;">À propos de moi</h2>
 <ul>
@@ -33,3 +35,5 @@
 </ul>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
+
+</div>
