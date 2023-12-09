@@ -32,7 +32,7 @@
 
 ## 📫 Me contacter
 - **Email** : [cyrian.brocardo@gmail.com](mailto:cyrian.brocardo@gmail.com)
-- **LinkedIn** : [Ajoutez votre lien LinkedIn ici]
+- **LinkedIn** : [Cyrian Brocardo](https://www.linkedin.com/in/cyrian-brocardo-7a84a1244)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
 
