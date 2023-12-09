@@ -2,7 +2,7 @@
 
 # 👋 Bienvenue sur mon profil GitHub !
 
-![Header](https://i.ibb.co/StCJGc1/github-header-image-3.png)
+![Header](https://i.ibb.co/xJXvfbZ/github-header-image-5.png)
 
 👨‍🎓 Je suis un étudiant de 19 ans passionné par le développement web et l'UI/UX. Toujours en quête de nouvelles technologies et tendances dans le monde du développement.
 
