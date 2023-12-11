@@ -28,9 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;  &nbsp;  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp; &nbsp;
-    <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
-  
-
 </p>
 
 ---
@@ -46,6 +43,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> &nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> &nbsp;&nbsp;
+    <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
 </p>
 
 ---
@@ -70,6 +68,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+        <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
       </p>
       <a href="https://github.com/Explo38/SerreConnect_V2.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=SerreConnect&theme=tokyonight" alt="SerreConnect" />
