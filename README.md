@@ -55,6 +55,22 @@
 ## 🚀 Projets et réalisations
 - **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.
 
+  <h4>🚀 SerreConnect </h4>
+      <p><strong>Description:</strong> C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.</p>
+      <p>&nbsp;</p>
+      <p><strong>Technologies Utiliser:</strong></p>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;  
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;&nbsp;  
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp; 
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> &nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;&nbsp;
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
+      </p>
+      <a href="https://github.com/fillraen/SteelStrickers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=SteelStrickers&theme=tokyonight" alt="Steel Strickers" />
+      </a>
+
 ## 📫 Me contacter
 <div align="left">
   <a href="mailto:cyrian.brocardo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
