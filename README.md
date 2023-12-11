@@ -51,10 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Cyrian's Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Nicolas's GitHub Stats">
-</p>
-
 
 ## 🚀 Projets et réalisations
 - **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.
