@@ -28,6 +28,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;  &nbsp;  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp; &nbsp;
+    <img src="![image](https://github.com/Explo38/Explo38/assets/144239380/8464adae-b417-4da2-823f-3570835ffce3)" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
+
+  
+
 </p>
 
 ---
