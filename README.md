@@ -45,8 +45,14 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> &nbsp;&nbsp;
 </p>
 
+---
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Cyrian's Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Explo38&layout=compact&theme=dark" alt="Nicolas's GitHub Stats">
 </p>
 
 
