@@ -53,7 +53,6 @@
 
 
 ## 🚀 Projets et réalisations
-- **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.
 
 <table>
   <tr>
