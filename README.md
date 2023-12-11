@@ -56,8 +56,10 @@
 - **[SerreConnect](https://github.com/Explo38/SerreConnect_V2.git)** : C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.
 
 ## 📫 Me contacter
-- **Email** : [cyrian.brocardo@gmail.com](mailto:cyrian.brocardo@gmail.com)
-- **LinkedIn** : [Cyrian Brocardo](https://www.linkedin.com/in/cyrian-brocardo-7a84a1244)
+- <div align="left">
+  <a href="mailto:cyrian.brocardo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/cyrian-brocardo-7a84a1244"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Je+suis+Cyrian;Développeur+web+passionné...)](https://git.io/typing-svg)
 
