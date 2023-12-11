@@ -57,11 +57,10 @@
 
 <table>
   <tr>
-    <td style="width: 50%; vertical-align: top;">
-
+    <td width="50%" valign="top">
       <h4>🚀 SerreConnect</h4>
       <p><strong>Description:</strong> C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.</p>  
-      <p><strong>Technologies Utilisées:</strong></p>
+      <p><strong>Technologies Utilisées:</strong></p> 
       <p style="text-align: left;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
@@ -76,6 +75,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 📫 Me contacter
