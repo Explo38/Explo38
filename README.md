@@ -70,6 +70,7 @@
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
       </p>
       <a href="https://github.com/Explo38/SerreConnect_V2.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=SteelStrickers&theme=tokyonight" alt="SerreConnect" />
       </a>
     </td>
   </tr>
