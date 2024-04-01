@@ -73,7 +73,7 @@
         <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
       </p>
       <a href="https://github.com/Explo38/SerreConnect_V2.git">
-        <img src="https://img.shields.io/badge/-Voir%20dessus-blue?style=for-the-badge" alt="Voir dessus" />
+        <img src="https://img.shields.io/badge/-Voir%20dessus-blue?style=for-the-badge" alt="Voir" />
       </a>
     </td>
   </tr>
