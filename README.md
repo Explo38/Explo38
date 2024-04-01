@@ -21,7 +21,8 @@
 ### 🛠️ Languages
 <p align="left">
   <!-- Langages -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+ &nbsp;&nbsp;  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp;&nbsp;  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;&nbsp;  
@@ -72,7 +73,7 @@
         <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
       </p>
       <a href="https://github.com/Explo38/SerreConnect_V2.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Explo38&repo=SerreConnect&theme=tokyonight" alt="SerreConnect" />
+        <img src="https://img.shields.io/badge/-Voir%20dessus-blue?style=for-the-badge" alt="Voir dessus" />
       </a>
     </td>
   </tr>
