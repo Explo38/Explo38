@@ -53,6 +53,7 @@
 </p>
 
 
+
 ## 🚀 Projets et réalisations
 
 <table>
@@ -71,7 +72,7 @@
         <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
       </p>
       <a href="https://github.com/Explo38/SerreConnect_V2.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fillraen&repo=SerreConnect&theme=tokyonight" alt="SerreConnect" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Explo38&repo=SerreConnect&theme=tokyonight" alt="SerreConnect" />
       </a>
     </td>
   </tr>
