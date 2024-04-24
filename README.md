@@ -60,19 +60,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 SerreConnect</h4>
-      <p><strong>Description:</strong> C'est un site web développé dans le cadre d'un projet de fin d'année, dédié à la gestion d'une serre connectée.</p>  
-      <p><strong>Technologies Utilisées:</strong></p> 
-      <p style="text-align: left;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-        <img src="https://i.ibb.co/84LN1ks/image-2023-12-11-220724179.png" alt="gsap" width="40" height="40"/> &nbsp; &nbsp;
-      </p>
-      <a href="https://github.com/Explo38/SerreConnect_V2.git">
+      <h4>💻 Création Graphique</h4>
+      <a href="https://github.com/Explo38/Creation-graphique">
         <img src="https://img.shields.io/badge/-Voir%20-blue?style=for-the-badge" alt="Voir" />
       </a>
     </td>
