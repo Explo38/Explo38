@@ -29,7 +29,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> &nbsp;&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;  &nbsp;  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp; &nbsp;
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FReact&psig=AOvVaw3ucZsSfDnuM2hd0cDKr1sN&ust=1714059902682000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj2x-6Y24UDFQAAAAAdAAAAABAE" alt="python" width="40" height="40"/> &nbsp; &nbsp;
 </p>
 
 ---
