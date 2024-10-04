@@ -9,7 +9,7 @@
 </div>
 
 ## 🎓 À propos de moi
-- **Étudiant en développement** : Je me concentre principalement sur le développement web, tout en explorant d'autres domaines de la technologie.
+- **Étudiant en développement / webdesign** : Je me concentre principalement sur le développement web, tout en explorant d'autres domaines de la technologie.
 - **Curieux et enthousiaste** : Toujours prêt à apprendre et à relever de nouveaux défis.
 
 ## 🌐 Mes intérêts
